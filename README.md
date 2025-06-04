@@ -68,11 +68,11 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [R.ɛKx](https://nben.com.np/work/rekx)
-- [Kapil Sainju](https://nben.com.np/work/kapil)
-- [Blissful Abir](https://nben.com.np/events/blissful-abir)
-- [The Little Newari Explorer](https://nben.com.np/events/the-little-newari-explorer)
-- [The Resource Nepal](https://nben.com.np/work/trn)
+- [Empowering Your App: The Thrilling Fusion of APIs and SDKs](https://nben.com.np/blogs/empowering-your-app-the-thrilling-fusion-of-apis-and-sdks)
+- [Unlocking the Power of Social Login: Seamlessly Connect and Engage with Your Users!](https://nben.com.np/blogs/unlocking-the-power-of-social-login-seamlessly-connect-and-engage-with-your-users)
+- [Unleashing the Magic of Programming: Empower, Create, Innovate, Transform!](https://nben.com.np/blogs/unleashing-the-magic-of-programming-empower-create-innovate-transform)
+- [Unleashing the Power of APIs: Revolutionizing Connectivity, Efficiency, and Innovation](https://nben.com.np/blogs/unleashing-the-power-of-apis-revolutionizing-connectivity-efficiency-and-innovation)
+- [Unveiling the Power of APIs: Revolutionizing the Digital Landscape](https://nben.com.np/blogs/unveiling-the-power-of-apis-revolutionizing-the-digital-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
