@@ -63,6 +63,17 @@
 <br />
 
 <div>
+    <strong>Articles</strong>
+    <p>Recent publications featuring tutorials, insights, and technical discussions.</p>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+<br />
+
+<div>
     <strong>GitHub Contributions</strong>
     <p>Latest contributions to open-source projects.</p>
 </div>
