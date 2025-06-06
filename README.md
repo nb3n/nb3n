@@ -46,6 +46,9 @@
     <img 
         src="/img/know-more.svg"
         alt="Know More"
+        style="
+            width: 15%;
+        "
     />
 </a>
 
@@ -89,7 +92,39 @@
     <p>Support ongoing contributions to open-source software.</p>
 </div>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nben)
+<div>
+    <a  
+        href="https://buymeacoffee.com/nben"
+        target="_blank"
+    >
+        <img 
+            src="/img/bmc_qr.png"
+            alt="Buy me a coffee"
+            style="
+                width: 10%;
+                margin-bottom: 10px;
+            "
+        />
+    </a>
+    <br />
+    <div>
+        <strong>Nben Malla</strong>
+        <p>Software Engineer</p>
+    </div>
+    <a  
+        href="https://buymeacoffee.com/nben"
+        target="_blank"
+    >
+        <img 
+            src="/img/bmc-button.png"
+            alt="Buy me a coffee"
+            style="
+                width: 15%;
+                margin-bottom: 10px;
+            "
+        />
+    </a>
+</div>
 
 <br />
 <br />
