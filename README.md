@@ -5,6 +5,7 @@
 </picture>
 
 <br />
+<br />
 
 <div>
     <a href="https://nben.com.np" target="_blank">
@@ -77,7 +78,7 @@
 <br />
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/default-opengraph.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/default-opengraph.jpg" />
-    <img alt="nben-malla" src="https://raw.githubusercontent.com/nb3n/nb3n/main/img/default-opengraph.jpg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/malla-illustration.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/malla-illustration.jpg" />
+    <img alt="nben-malla" src="https://raw.githubusercontent.com/nb3n/nb3n/main/img/malla-illustration.jpg" width="100%" />
 </picture>
