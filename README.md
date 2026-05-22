@@ -8,7 +8,7 @@
 
 <div>
     <a href="https://nben.com.np" target="_blank">
-        <img src="/img/nben.svg" alt="Nben M." width="10%" style="margin-bottom: 10px;" />
+        <img src="/img/nben.svg" alt="Nben M." width="10%" style="margin-bottom: 10px; margin-top: 10px;" />
     </a>
     <div>
         <strong>Nben Malla</strong>
@@ -77,7 +77,7 @@
 <br />
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/nben-malla.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/nben-malla.png" />
-    <img alt="nben-malla" src="https://raw.githubusercontent.com/nb3n/nb3n/main/img/nben-malla.png" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/default-opengraph.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nb3n/nb3n/main/img/default-opengraph.jpg" />
+    <img alt="nben-malla" src="https://raw.githubusercontent.com/nb3n/nb3n/main/img/default-opengraph.jpg" width="100%" />
 </picture>
